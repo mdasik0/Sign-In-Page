@@ -1,0 +1,24 @@
+.not_show {
+  position: absolute;
+  right: 5px;
+  color: gray;
+  cursor: pointer;
+  top: 11px;
+}
+.show {
+  position: absolute;
+  right: 5px;
+  color: black;
+  cursor: pointer;
+  top: 11px;
+}
+
+.icon_size {
+  font-size: large;
+  border: 1px solid gray;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: all 0.5s;
+
+}
